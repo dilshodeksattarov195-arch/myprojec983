@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersync",
+        "uuid": 3532902,
+        "checksum": "ib4gmt"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
